@@ -1,5 +1,6 @@
 
-# 这是一个自动生成的Python文件
+import nlp
+
 def hello_world():
     print("Hello, world! Time is 'Thu Nov  9 09:36:17 2023'")
 
