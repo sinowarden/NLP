@@ -20,3 +20,4 @@ if __name__ == "__main__":
 // limitations under the License.
 
 goog.module('myphysicslab.test.DoNothingTest');
+
