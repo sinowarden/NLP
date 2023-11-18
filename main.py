@@ -22,3 +22,4 @@ if __name__ == "__main__":
 goog.module('myphysicslab.test.DoNothingTest');
 
 const CollisionAdvance = goog.require('myphysicslab.lab.model.CollisionAdvance');
+const CollisionHandling = goog.require('myphysicslab.lab.engine2D.CollisionHandling');
