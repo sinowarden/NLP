@@ -27,3 +27,4 @@ const ConstantForceLaw = goog.require('myphysicslab.lab.model.ConstantForceLaw')
 const ContactSim = goog.require('myphysicslab.lab.engine2D.ContactSim');
 const CoordType = goog.require('myphysicslab.lab.model.CoordType');
 const DampingLaw = goog.require('myphysicslab.lab.model.DampingLaw');
+const DoNothingApp = goog.require('myphysicslab.sims.engine2D.DoNothingApp');
