@@ -42,3 +42,4 @@ const Vector = goog.require('myphysicslab.lab.util.Vector');
 const assertTrue = v => TestRig.assertTrue(v);
 const assertLessThan = (v, l) => TestRig.assertLessThan(v, l);
 const makeVars = n => Engine2DTestRig.makeVars(n);
+const schedule = testFunc => TestRig.schedule(testFunc);
