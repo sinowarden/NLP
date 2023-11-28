@@ -50,3 +50,4 @@ const setTestName = nm => Engine2DTestRig.setTestName(nm);
 /** Defines tests involving {@link DoNothingApp}.
 */
 class DoNothingTest {
+/**
