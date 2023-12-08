@@ -75,3 +75,4 @@ static test() {
 
 goog.module('myphysicslab.test.DoNothingTest');
 
+const CollisionAdvance = goog.require('myphysicslab.lab.model.CollisionAdvance');
