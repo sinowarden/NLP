@@ -101,3 +101,4 @@ const setBodyVars = (sim, vars, i, x, vx, y, vy, w, vw) =>
     Engine2DTestRig.setBodyVars(sim, vars, i, x, vx, y, vy, w, vw);
 const setTestName = nm => Engine2DTestRig.setTestName(nm);
 
+/** Defines tests involving {@link DoNothingApp}.
