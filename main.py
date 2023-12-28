@@ -107,3 +107,4 @@ class DoNothingTest {
 /**
 @private
 */
+constructor() { throw ''; };
