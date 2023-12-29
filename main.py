@@ -109,3 +109,4 @@ class DoNothingTest {
 */
 constructor() { throw ''; };
 
+static test() {
