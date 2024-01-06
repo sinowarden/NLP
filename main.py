@@ -116,3 +116,4 @@ static test() {
   schedule(DoNothingTest.do_nothing_variable_test);
   schedule(DoNothingTest.do_nothing_error);
 };
+
