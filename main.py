@@ -118,3 +118,4 @@ static test() {
 };
 
 /** DoNothingApp with variable rotating force on handle.
+@param {!ContactSim} sim
