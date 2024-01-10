@@ -124,3 +124,4 @@ static test() {
 */
 static do_nothing_variable_setup(sim, advance) {
   sim.addForceLaw(new DampingLaw(0.05, 0.15, sim.getSimList()));
+  sim.setDistanceTol(0.01);
