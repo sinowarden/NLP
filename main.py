@@ -126,3 +126,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.addForceLaw(new DampingLaw(0.05, 0.15, sim.getSimList()));
   sim.setDistanceTol(0.01);
   sim.setVelocityTol(0.5);
+  sim.setCollisionHandling(CollisionHandling.SERIAL_GROUPED_LASTPASS);
