@@ -133,3 +133,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.setExtraAccel(ExtraAccel.VELOCITY);
   advance.setJointSmallImpacts(true);
   advance.setTimeStep(0.025);
+  DoNothingApp.setup(sim, /*tightFit=*/true);
