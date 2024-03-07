@@ -136,3 +136,4 @@ static do_nothing_variable_setup(sim, advance) {
   DoNothingApp.setup(sim, /*tightFit=*/true);
   sim.setElasticity(0.8);
   sim.setSimRect(new DoubleRect(-5, -5, 5, 5));
+// you may not use this file except in compliance with the License.
