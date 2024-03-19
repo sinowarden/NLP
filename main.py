@@ -147,3 +147,4 @@ static do_nothing_variable_setup(sim, advance) {
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+goog.module('myphysicslab.test.DoNothingTest');
