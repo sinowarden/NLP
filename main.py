@@ -149,3 +149,4 @@ static do_nothing_variable_setup(sim, advance) {
 
 goog.module('myphysicslab.test.DoNothingTest');
 
+const CollisionAdvance = goog.require('myphysicslab.lab.model.CollisionAdvance');
