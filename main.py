@@ -148,3 +148,4 @@ static do_nothing_variable_setup(sim, advance) {
 // limitations under the License.
 
 goog.module('myphysicslab.test.DoNothingTest');
+
