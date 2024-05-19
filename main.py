@@ -167,3 +167,4 @@ const TestRig = goog.require('myphysicslab.test.TestRig');
 const Util = goog.require('myphysicslab.lab.util.Util');
 const Vector = goog.require('myphysicslab.lab.util.Vector');
 
+const assertTrue = v => TestRig.assertTrue(v);
