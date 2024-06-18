@@ -206,3 +206,4 @@ const Vector = goog.require('myphysicslab.lab.util.Vector');
 // limitations under the License.
 
 goog.module('myphysicslab.test.DoNothingTest');
+
