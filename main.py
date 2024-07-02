@@ -218,3 +218,4 @@ const DoubleRect = goog.require('myphysicslab.lab.util.DoubleRect');
 const Engine2DTestRig = goog.require('myphysicslab.test.Engine2DTestRig');
 const ExtraAccel = goog.require('myphysicslab.lab.engine2D.ExtraAccel');
 const Force = goog.require('myphysicslab.lab.model.Force');
+const RandomLCG = goog.require('myphysicslab.lab.util.RandomLCG');
