@@ -233,3 +233,4 @@ const setBodyVars = (sim, vars, i, x, vx, y, vy, w, vw) =>
     Engine2DTestRig.setBodyVars(sim, vars, i, x, vx, y, vy, w, vw);
 const setTestName = nm => Engine2DTestRig.setTestName(nm);
 // you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
