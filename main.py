@@ -244,3 +244,4 @@ const setTestName = nm => Engine2DTestRig.setTestName(nm);
 // limitations under the License.
 
 goog.module('myphysicslab.test.DoNothingTest');
+
