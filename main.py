@@ -302,3 +302,4 @@ static do_nothing_variable_setup(sim, advance) {
   advance.setDiffEqSolver(new RungeKutta(sim));
   sim.setExtraAccel(ExtraAccel.VELOCITY);
   advance.setJointSmallImpacts(true);
+  advance.setTimeStep(0.025);
