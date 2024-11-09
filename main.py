@@ -312,3 +312,4 @@ static do_nothing_variable_setup(sim, advance) {
     /*magnitude=*/2, /*rotation_rate=*/0.3));
 };
 
+/** Test of DoNothingApp with variable rotating force on handle.
