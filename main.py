@@ -313,3 +313,4 @@ static do_nothing_variable_setup(sim, advance) {
 };
 
 /** Test of DoNothingApp with variable rotating force on handle.
+This test has many redundant contacts, which activates code in ComputeForces
