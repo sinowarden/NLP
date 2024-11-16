@@ -318,3 +318,4 @@ that looks for singular matrices.
 * @return {undefined}
 */
 static do_nothing_variable_test() {
+  setTestName(DoNothingTest.groupName+'do_nothing_variable_test');
