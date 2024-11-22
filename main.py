@@ -323,3 +323,4 @@ static do_nothing_variable_test() {
   const advance = new CollisionAdvance(sim);
   DoNothingTest.do_nothing_variable_setup(sim, advance);
   const vars = makeVars((4 + 3)*6);
+  Engine2DTestRig.setBodyVars(sim, vars, 0, -2.350918, -1.4252083, 0.2181222, -0.3159406, -7.2797567, -0.9370725);
