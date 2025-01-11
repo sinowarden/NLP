@@ -357,3 +357,4 @@ const ExtraAccel = goog.require('myphysicslab.lab.engine2D.ExtraAccel');
 const Force = goog.require('myphysicslab.lab.model.Force');
 const RandomLCG = goog.require('myphysicslab.lab.util.RandomLCG');
 const RotatingTestForce = goog.require('myphysicslab.sims.engine2D.RotatingTestForce');
+const RungeKutta = goog.require('myphysicslab.lab.model.RungeKutta');
