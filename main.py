@@ -366,3 +366,4 @@ const assertTrue = v => TestRig.assertTrue(v);
 const assertLessThan = (v, l) => TestRig.assertLessThan(v, l);
 const makeVars = n => Engine2DTestRig.makeVars(n);
 const schedule = testFunc => TestRig.schedule(testFunc);
+const setBodyVars = (sim, vars, i, x, vx, y, vy, w, vw) =>
