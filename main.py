@@ -383,3 +383,4 @@ static test() {
   schedule(DoNothingTest.do_nothing_grinder_test1b);
   schedule(DoNothingTest.do_nothing_grinder_test2);
   schedule(DoNothingTest.do_nothing_variable_test);
+  schedule(DoNothingTest.do_nothing_error);
