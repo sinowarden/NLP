@@ -386,3 +386,4 @@ static test() {
   schedule(DoNothingTest.do_nothing_error);
 };
 
+/** DoNothingApp with variable rotating force on handle.
