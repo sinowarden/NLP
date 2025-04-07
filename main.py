@@ -391,3 +391,4 @@ static test() {
 @param {!CollisionAdvance} advance
 @export
 */
+static do_nothing_variable_setup(sim, advance) {
