@@ -397,3 +397,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.setVelocityTol(0.5);
   sim.setCollisionHandling(CollisionHandling.SERIAL_GROUPED_LASTPASS);
   sim.setShowForces(false);
+  sim.setCollisionAccuracy(0.6);
