@@ -398,3 +398,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.setCollisionHandling(CollisionHandling.SERIAL_GROUPED_LASTPASS);
   sim.setShowForces(false);
   sim.setCollisionAccuracy(0.6);
+  advance.setDiffEqSolver(new RungeKutta(sim));
