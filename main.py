@@ -404,3 +404,4 @@ static do_nothing_variable_setup(sim, advance) {
   advance.setTimeStep(0.025);
   DoNothingApp.setup(sim, /*tightFit=*/true);
   sim.setElasticity(0.8);
+  sim.setSimRect(new DoubleRect(-5, -5, 5, 5));
