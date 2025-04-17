@@ -403,3 +403,4 @@ static do_nothing_variable_setup(sim, advance) {
   advance.setJointSmallImpacts(true);
   advance.setTimeStep(0.025);
   DoNothingApp.setup(sim, /*tightFit=*/true);
+  sim.setElasticity(0.8);
