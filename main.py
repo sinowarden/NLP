@@ -406,3 +406,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.setElasticity(0.8);
   sim.setSimRect(new DoubleRect(-5, -5, 5, 5));
   // add a rotating force turning the handle
+  const handle = sim.getBody('handle');
