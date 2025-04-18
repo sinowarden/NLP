@@ -410,3 +410,4 @@ static do_nothing_variable_setup(sim, advance) {
   sim.addForceLaw(new RotatingTestForce(sim, handle, new Vector(0, -3),
     /*magnitude=*/2, /*rotation_rate=*/0.3));
 };
+
