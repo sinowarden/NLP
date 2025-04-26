@@ -416,3 +416,4 @@ This test has many redundant contacts, which activates code in ComputeForces
 that looks for singular matrices.
 * @return {undefined}
 */
+static do_nothing_variable_test() {
