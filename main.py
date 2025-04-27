@@ -419,3 +419,4 @@ that looks for singular matrices.
 static do_nothing_variable_test() {
   setTestName(DoNothingTest.groupName+'do_nothing_variable_test');
   const sim = new ContactSim();
+  const advance = new CollisionAdvance(sim);
