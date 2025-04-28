@@ -421,3 +421,4 @@ static do_nothing_variable_test() {
   const sim = new ContactSim();
   const advance = new CollisionAdvance(sim);
   DoNothingTest.do_nothing_variable_setup(sim, advance);
+  const vars = makeVars((4 + 3)*6);
