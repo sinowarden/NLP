@@ -426,3 +426,4 @@ static do_nothing_variable_test() {
   Engine2DTestRig.setBodyVars(sim, vars, 1, 0, -0, 1.7390377, -2.5189213, 3.1415927, -0);
   Engine2DTestRig.setBodyVars(sim, vars, 2, -2.688075, -1.6296046, -0, 0, 1.5707963, 0);
   setBodyVars(sim, vars, 3, 2.507, 0, 2.507, 0, 0, 0);
+  setBodyVars(sim, vars, 4, 2.507, 0, -2.507, 0, 0, 0);
