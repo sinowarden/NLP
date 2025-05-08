@@ -428,3 +428,4 @@ static do_nothing_variable_test() {
   setBodyVars(sim, vars, 3, 2.507, 0, 2.507, 0, 0, 0);
   setBodyVars(sim, vars, 4, 2.507, 0, -2.507, 0, 0, 0);
   setBodyVars(sim, vars, 5, -2.507, 0, 2.507, 0, 0, 0);
+  setBodyVars(sim, vars, 6, -2.507, 0, -2.507, 0, 0, 0);
