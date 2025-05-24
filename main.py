@@ -444,3 +444,4 @@ static do_nothing_variable_test() {
 goog.module('myphysicslab.test.DoNothingTest');
 
 const CollisionAdvance = goog.require('myphysicslab.lab.model.CollisionAdvance');
+const CollisionHandling = goog.require('myphysicslab.lab.engine2D.CollisionHandling');
