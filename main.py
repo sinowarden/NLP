@@ -452,3 +452,4 @@ const DampingLaw = goog.require('myphysicslab.lab.model.DampingLaw');
 const DoNothingApp = goog.require('myphysicslab.sims.engine2D.DoNothingApp');
 const DoubleRect = goog.require('myphysicslab.lab.util.DoubleRect');
 const Engine2DTestRig = goog.require('myphysicslab.test.Engine2DTestRig');
+const ExtraAccel = goog.require('myphysicslab.lab.engine2D.ExtraAccel');
