@@ -462,3 +462,4 @@ const Util = goog.require('myphysicslab.lab.util.Util');
 const Vector = goog.require('myphysicslab.lab.util.Vector');
 
 const assertTrue = v => TestRig.assertTrue(v);
+const assertLessThan = (v, l) => TestRig.assertLessThan(v, l);
