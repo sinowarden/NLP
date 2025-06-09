@@ -467,3 +467,4 @@ const makeVars = n => Engine2DTestRig.makeVars(n);
 const schedule = testFunc => TestRig.schedule(testFunc);
 const setBodyVars = (sim, vars, i, x, vx, y, vy, w, vw) =>
     Engine2DTestRig.setBodyVars(sim, vars, i, x, vx, y, vy, w, vw);
+const setTestName = nm => Engine2DTestRig.setTestName(nm);
