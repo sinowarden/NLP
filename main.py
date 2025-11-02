@@ -479,3 +479,4 @@ constructor() { throw ''; };
 
 static test() {
   schedule(DoNothingTest.do_nothing_grinder_test1);
+  schedule(DoNothingTest.do_nothing_grinder_test1b);
