@@ -489,3 +489,4 @@ static test() {
 @param {!ContactSim} sim
 @param {!CollisionAdvance} advance
 @export
+*/
